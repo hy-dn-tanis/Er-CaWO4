@@ -6,5 +6,6 @@ It serves as a record of the research process and a documentation of Hayden's wo
 
 
 Several MATLAB scripts are uploaded to the folder "Scripts". 
+Interesting figures and presentation slides are included in this repository. 
 
-Presentation slides are included. 
+Feel free to connect further with me via email: haydenntanis@gmail.com
